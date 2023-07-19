@@ -73,7 +73,7 @@ body{
     margin: 10px 0px;
     padding: 0 5px;
     color: hsl(233, 8%, 79%);
-    font-size: 18px;
+    font-size: 14px;
 }
 .col_2 hr{
     margin:40px 5px;
@@ -168,9 +168,9 @@ body{
         src: url(images/image-web-3-mobile.jpg);
     }
     .en_bas_image h1{
-        font-size: 20px;
-        font-weight: 400;
-        text-align: justify;
+        font-size: 15px;
+        font-weight: 900;
+        font-family: 'Inter', sans-serif;
     }
     .en_bas_image p{
         margin-top: 10px;
